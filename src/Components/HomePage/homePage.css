@@ -1,0 +1,783 @@
+
+nav {
+  font-weight: 500;
+  background-color: #e8e8e6;
+  justify-content: center;
+}
+.nav-link{
+  color: #080808;
+  font-size: 22px;
+}
+
+#navbarSupportedContent ul li a {
+
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: capitalize;
+  color: #d7d7d7;
+
+}
+
+#navbarSupportedContent ul li a.active,
+#navbarSupportedContent ul li a:hover {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: capitalize;
+
+  color: #f1f1f1;
+}
+
+.header-btn {
+  height: 48px;
+}
+
+#header {
+  padding-top: 80px;
+}
+
+.btn-bg-white {
+
+  width: 126px;
+  height: 42px;
+  left: 159px;
+  top: 39px;
+  background-color: transparent;
+  border: 1px solid #222835;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.btn-bg-white a {
+  font-family: 'Tajawal';
+  font-style: normal;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #222835;
+  opacity: 0.5;
+}
+
+.btn-bg-white:hover {
+  background-color: transparent;
+  border: 1px solid #222835;
+  border-radius: 4px;
+}
+
+.header-section {
+  width: 705px;
+  height: 200px;
+  margin-top: 79px;
+  margin-bottom: 42px;
+}
+
+.header-section h2 ,.header-section h1 {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 76px;
+  text-align: right;
+  color: #ffffff;
+}
+
+.sectionLabel-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#about ,#location ,#info{
+  padding: 100px 0 100px 0;
+}
+
+.sectionHeader {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  text-transform: capitalize;
+
+  color: #ffffff;
+}
+
+.sectionLabel-text h2 {
+
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 67px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #eeeeee;
+}
+
+.sectionLabel-text p {
+  font-weight: 400;
+  width: 540px;
+  height: 48px;
+  margin-top: 16px;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  text-align: center;
+
+  color: #e6f2ff;
+}
+
+.card {
+  background: #FFFFFF;
+  box-shadow: 0px 54px 80px rgba(0, 0, 0, 0.03);
+  border-radius: 12px;
+  border: none !important;
+  text-align: center;
+  margin-bottom: 40px;
+
+}
+
+
+
+#cards-container {
+  margin-top: 18px;
+}
+
+.res-display{
+  position: relative;
+}
+.res-display div{
+  position: absolute;
+  height: 50px;
+  width: 150px;
+}
+.res-display .alex{
+  top: 17px;
+  right: 300px;
+
+}
+.res-display .damnhor{
+  top: 150px;
+  left: 135px;
+}
+.res-display .mansoura{
+  bottom: 170px;
+  left: 168px;
+}
+.res-display .kfr{
+  top: 140px;
+  right: 170px;
+}
+.res-display .zag{
+  bottom: 80px;
+  right: 168px;
+}
+.res-display .tanta{
+  bottom: 170px;
+  right: 160px;
+}
+
+.input-data label {
+  margin: 20px 0 12px 0;
+}
+
+.card .text-about-section p {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #1E2431;
+
+}
+.card-text{
+  color: #6935d0;
+  font-weight: bold;
+}
+
+.card .text-about-section h6 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 31px;
+  text-align: center;
+  font-family: 'Tajawal';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #1E2431;
+
+}
+
+.card .text-about-section {
+  padding: 20px;
+}
+
+.about-section {
+  height: 300.25px;
+  width: 100%;
+}
+
+.sidenav {
+  display: none;
+}
+
+#main {
+  display: none;
+}
+
+.responsive-btn {
+  display: none;
+}
+#price div p{
+
+width: 90%;
+font-size: 20px;
+color: #a2a2a2;
+padding: 50px;
+}
+
+.list{
+  margin-top: 32px;
+
+}
+.list ul{
+list-style: none; 
+
+}
+.list ul li{width: 100%;}
+.list ul li i{
+margin-left: 14px;      
+  }
+  .list-div div{
+      display: flex;
+      flex-direction: column;
+  }
+
+.img-map img{
+  width: 100%;
+  height: 100%;
+  
+}
+.branches{
+width: 421px;
+}
+.branches h3{
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: right;
+color: #d7d7d7;
+}
+.branches p{
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: right;
+  text-transform: lowercase;
+  color: #dcdcdc;
+  margin: 32px 0px 16px 0px !important;
+  
+  }
+.branches span{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  color: #a2a2a2;
+      }
+      .branches button {
+          box-sizing: border-box;
+      
+width: 200px;
+height: 48px;
+opacity: 0.8;
+margin-top: 80px;
+border: 1px solid #000000;
+border-radius: 4px;
+      }
+      .img-about{
+        background-image: url('../../img/book.jpeg');
+        background-position: center center;
+        background-size: cover;
+      }
+ .btnWidth button {
+
+  background-color: #9b1b1f;
+  color:white
+ }
+
+
+.btnWidth-res{
+  display: none;
+}
+.modal-img{
+width: 450px;
+height: 290px;
+}
+@media only screen and (max-width: 1024px) {
+  .res-display{
+      display: none;
+  }
+
+  .branches .btnWidth ,  .branches .btnWidth-res{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+  } 
+.branches{
+width: auto;
+
+  }
+
+
+.branches button {
+  box-sizing: border-box;
+  width: 200px;
+  height: 48px;
+  opacity: 0.8;
+  margin:  10px 0 10px 0;
+  border: 1px solid #000000;
+  border-radius: 4px;
+}
+  .navbar {
+      display: none !important;
+  }
+  .responsive-btn {
+      position: absolute;
+      left: 30px;
+      top: 30px;
+      width: 130px;
+      height: 50px;
+  }
+  .responsive-btn  a {
+      font-family: 'Tajawal';
+      font-style: normal;
+      text-decoration: none;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 19px;
+      color: #222835;
+      opacity: 0.5;
+  }
+  
+  .responsive-btn:hover {
+      background-color: transparent;
+      border: 1px solid #222835;
+      border-radius: 4px;
+  }
+  body {
+      position: relative;
+  }
+
+  #greyDiv {
+      position: absolute;
+      background-color: #00000053;
+      top: 0px;
+      right: 0px;
+      left: 0px;
+      bottom: 0px;
+      z-index: 11111;
+  }
+
+  .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 111111111111111;
+      display: block;
+      top: 0;
+      right: 0;
+      background-color: #ffffff;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+  }
+
+  .sidenav .closebtn {
+      position: absolute;
+      width: 80px;
+      height: 50px;
+      top: 20px;
+      left: 20px;
+      font-size: 36px;
+      border-radius: 10px;
+      border: #5d5d5d 1px solid;
+              font-size: 25px;
+      color: #5d5d5d;
+  }
+
+  #main {
+      transition: margin-left .5s;
+  }
+
+
+  .header-section {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  }
+
+
+  #main {
+      display: flex;
+      position: absolute;
+      top: 30px;
+      right: 30px;
+  }
+  #main button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 80px;
+      height: 50px;
+              border-radius: 10px;
+      border: #5d5d5d 1px solid;
+              font-size: 25px;
+      color: #5d5d5d;
+  }
+
+  .responsive-btn {
+      width: 126px;
+      height: 50px;
+      left: 30px;
+      top: 30px;
+      background-color: transparent;
+      border: 1px solid #222835;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  
+  }
+
+  #greyDiv {
+      position: absolute;
+      background-color: #00000053;
+      top: 0px;
+      right: 0px;
+      left: 0px;
+      bottom: 0px;
+      z-index: 11111;
+  }
+
+  .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 111111111111111;
+      display: block;
+      top: 0;
+      right: 0;
+      background-color: #ffffff;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+  }
+
+
+  #main {
+      transition: margin-left .5s;
+  }
+
+
+
+  .nav-item-res {
+      position: relative;
+  }
+
+  .nav-item-res .active::after {
+      content: '';
+      width: 20px;
+      bottom: 0px;
+      height: 2px;
+      text-align: center;
+      background: #6935d0;
+              position: absolute;
+      right: 5px;
+  }
+
+  .nav-item-res .hover::after {
+
+      width: 20px;
+
+  }
+
+  .nav-item-res a::after {
+      content: '';
+      width: 0px;
+      bottom: 0px;
+      height: 2px;
+      text-align: center;
+      background: #6935d0;
+      position: absolute;
+      right: 5px;
+      transition: width 1s;
+
+  }
+
+
+
+
+  .header-section {
+      padding: 0 15px 0 15px;
+  }
+
+  .about-section p,
+  .header-section p {
+      font-size: 17px;
+      line-height: 21px;
+      font-weight: 500 !important;
+
+  }
+
+  .header-section,
+  .about-section {
+      padding: 10px;
+  }
+
+  .header-section h2,
+  .about-section h1 {
+      font-weight: 600;
+      font-size: 40px;
+      line-height: 45px;
+      width: auto;
+
+  }
+  .header-section h1{
+      font-size: 40px;
+      font-weight: 600;
+
+  }
+
+
+  .sectionLabel-text h2 {
+      font-size: 2rem;
+  }
+
+  .sectionLabel-text p {
+      font-size: 18px;
+      width: 70%;
+      line-height: 18px;
+  }
+
+  .card {
+      padding: 20px !important;
+      width: 100%;
+      margin: auto;
+      margin-bottom: 10px;
+
+
+  }
+
+  .card h3 {
+      font-size: 26px;
+      line-height: 31px;
+  }
+
+  .card p {
+      width: 90%;
+      margin: auto;
+
+  }
+
+
+  #services .sectionLabel-text p {
+      padding-bottom: 40px;
+      width: 80%;
+  }
+
+  .header-section {
+      width: 705px;
+      height: 200px;
+      margin-top: 9px; 
+       margin-bottom: 9px;
+  }
+  .map-close{
+      box-sizing: content-box;
+      width: 3em !important;
+      height: 3em !important;
+      padding: 0.5em 0.5em !important;
+      color: #000 !important;
+      border: 0 !important;
+      border-radius: 0.375rem !important;
+      opacity: 0.5 !important;
+  }
+  
+.feedback-bg{
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+}
+
+@media only screen and (max-width: 990px) {
+  .feedback-card{
+      width: 90%;
+  }
+  .btnWidth-div{
+      display: flex;
+  }
+  #about, #location {
+      padding: 50px 0 50px 0;
+  }
+}
+@media only screen and (max-width: 449px) {
+  #about, #location {
+      padding: 50px 0 50px 0;
+  }
+  .feedback-card{
+      width: 100%;
+  }
+  .btnWidth-div{
+      flex-direction: column;
+  }
+  #main {
+      position: absolute;
+      top: 18px;
+      right: 20px;
+  }
+  #main button {
+
+      width: 60px;
+      height: 45px;
+      border-radius: 10px;
+      border: #5d5d5d 1px solid;
+              font-size: 25px;
+      color: #5d5d5d;
+  }
+  .responsive-btn {
+      position: absolute;
+      left: 20px;
+      top: 18px;
+      width: 130px;
+      height: 45px;
+  }
+
+  .sidenav .closebtn {
+      position: absolute;
+      width: 60px;
+      height: 45px;
+      top: 20px;
+      left: 20px;
+      font-size: 36px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 10px;
+      border: #5d5d5d 1px solid;
+              font-size: 25px;
+      color: #5d5d5d;
+  }
+
+  .about-section p,
+  .header-section p {
+      font-size: 15px;
+      line-height: 21px;
+      font-weight: 500 !important;
+  }
+
+  .header-section,
+  .about-section {
+      padding: 10px;
+  }
+
+  .header-section h2,
+  .about-section h1 {
+      font-weight: 600;
+      font-size: 37px;
+      line-height: 45px;
+  }
+  .header-section h1{
+      font-size: 40px;
+
+  }
+
+
+
+
+  #services .sectionLabel-text p {
+
+      width: 80%;
+  }
+
+}
+
+@media only screen and (max-width: 375px) {
+  .feedback-card{
+      width: 100%;
+  }
+  #main {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+  }
+
+  #main button,
+  .sidenav .closebtn {
+      width: 40px;
+      height: 35px;
+      border-radius: 5px;
+      border: #5d5d5d 1px solid;
+              font-size: 15px;
+      color: #5d5d5d;
+  }
+
+
+  .responsive-btn {
+      width: 120px;
+      height: 35px;
+  }
+
+  .about-section p,
+  .header-section p {
+      font-size: 12px;
+      line-height: 21px;
+      font-weight: 500 !important;
+
+  }
+
+
+
+  .header-section,
+  .about-section {
+      padding: 10px;
+  }
+
+  .header-section h2,
+  .about-section h1 {
+      font-weight: 600;
+      font-size: 37px;
+      line-height: 45px;
+
+  }
+  .header-section h1{
+      font-size: 40px;
+
+  }
+  #services .sectionLabel-text p {
+
+      width: 90% !important;
+  }
+
+
+
+
+
+
+  .header-section button {
+      margin-top: 20px !important;
+      width: 160px;
+      height: 40px;
+  }
+
+}

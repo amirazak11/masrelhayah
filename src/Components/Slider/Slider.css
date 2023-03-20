@@ -1,0 +1,6 @@
+.height-slider{
+     height: 80vh;
+}
+.height-slider .carousel-inner{
+    height: 100%;
+}
