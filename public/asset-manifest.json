@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f7010e3.css",
+    "main.js": "/static/js/main.5b03cb47.js",
+    "static/js/787.52aa6795.chunk.js": "/static/js/787.52aa6795.chunk.js",
+    "static/media/book.png": "/static/media/book.d8084b9ac93c264c9835.png",
+    "static/media/ضيافة.png": "/static/media/ضيافة.2c6f88dc13baf4874009.png",
+    "static/media/فندقي.png": "/static/media/فندقي.fd3e97e2643a5b3f9f22.png",
+    "static/media/هندسي.png": "/static/media/هندسي.482761805a3389fb8c2b.png",
+    "static/media/img2.jpg": "/static/media/img2.bae528cc0ef00fa20067.jpg",
+    "static/media/img3.jpg": "/static/media/img3.2147151654f2343d7c2d.jpg",
+    "static/media/Logomsr.png": "/static/media/Logomsr.d632bc038c29b00b9ac1.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/Eng.jpeg": "/static/media/Eng.b3ffd8e74ee24d407d11.jpeg",
+    "static/media/Medicine.jpeg": "/static/media/Medicine.e37c2f808b20359e5d76.jpeg",
+    "static/media/Air.jpeg": "/static/media/Air.08959ca559921e60ee2b.jpeg",
+    "static/media/Hotel.jpeg": "/static/media/Hotel.39b30b54ab30fb6f2d63.jpeg",
+    "static/media/img2.jpeg": "/static/media/img2.f859b4784c2891164b36.jpeg",
+    "static/media/med.jpg": "/static/media/med.74153ec389df7afef61c.jpg",
+    "static/media/book.jpeg": "/static/media/book.8e214383f9e77dc5f6aa.jpeg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/Map 1.png": "/static/media/Map 1.bb90e85c6d35ea23e3eb.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/index.html",
+    "main.8f7010e3.css.map": "/static/css/main.8f7010e3.css.map",
+    "main.5b03cb47.js.map": "/static/js/main.5b03cb47.js.map",
+    "787.52aa6795.chunk.js.map": "/static/js/787.52aa6795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f7010e3.css",
+    "static/js/main.5b03cb47.js"
+  ]
+}

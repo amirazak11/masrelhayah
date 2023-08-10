@@ -277,7 +277,7 @@ letter-spacing: 0em;
 text-align: right;
 color: #d7d7d7;
 }
-.branches p{
+.branches .p1{
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -295,7 +295,7 @@ color: #d7d7d7;
   letter-spacing: 0em;
   color: #a2a2a2;
       }
-      .branches button {
+      .branches  .btnWidth button {
           box-sizing: border-box;
       
 width: 200px;
@@ -316,6 +316,10 @@ border-radius: 4px;
   color:white
  }
 
+ .btnWidth button:focus , .btnWidth button:hover{
+  background-color: #9b1b1f;
+
+ }
 
 .btnWidth-res{
   display: none;
